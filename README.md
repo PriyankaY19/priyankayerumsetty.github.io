@@ -1,4 +1,4 @@
-###Full Stack Developer
+Full Stack Developer
 ### Education 
 - Central Michigan University (CMU), MS in Information Systems
 - Geethanjali College Of Engineering and Technology
