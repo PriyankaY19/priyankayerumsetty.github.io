@@ -4,11 +4,11 @@
 - Geethanjali College Of Engineering and Technology
 
   ###   Work Experience
-  American Express/Full Stack Developer
+  Intellectsoft/Full Stack Developer
   May 2025 - Present
   I worked in an Agile development environment, actively participating in Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives to ensure smooth project execution. I developed and maintained Java-based applications using Spring Boot, Hibernate, and Microservices architecture. My responsibilities included designing and implementing RESTful APIs and integrating them with both SQL and NoSQL databases. I contributed to migrating legacy systems to modern, scalable architectures, improving application performance and maintainability. I developed event-driven solutions using Kafka and built serverless applications with AWS Lambda. I automated deployment processes through CI/CD pipelines using Jenkins, GitLab CI/CD, Docker, and Kubernetes. I utilized AWS services such as EC2, S3, IAM, and CloudWatch for cloud infrastructure management and monitoring. I performed unit and integration testing using JUnit and Mockito to ensure application reliability. I also implemented security mechanisms including OAuth 2.0 and JWT authentication to protect applications and APIs. Additionally, I collaborated with cross-functional teams to deliver high-quality software solutions and provide production support when needed.
 
-  7-Eleven/Java Backend Developer
+  Clockwork/Java Backend Developer
   Feb 2024 - March 2025
   
   I analyzed business requirements and translated them into technical solutions that aligned with organizational objectives. I collaborated with architects, developers, and stakeholders to design and implement scalable enterprise applications. I developed applications using Java, Spring Framework, Spring Boot, and Spring JDBC while creating RESTful APIs for seamless system integration. I contributed to migrating legacy applications to modern cloud-based architectures, improving scalability, maintainability, and performance. I integrated applications with Microsoft SQL Server and optimized database interactions to enhance efficiency. I followed secure coding standards and OWASP best practices to strengthen application security and reliability. I performed unit and integration testing using JUnit and Mockito to ensure high-quality code delivery. I actively participated in code reviews, debugging, and troubleshooting activities to resolve technical issues. I also supported continuous integration and deployment processes using Jenkins, Git, Maven, and Artifactory to streamline software delivery. Through close collaboration with cross-functional teams, I helped deliver reliable, secure, and high-performing software solutions.
